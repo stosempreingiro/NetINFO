@@ -6,6 +6,8 @@
 
 [IT] Un semplicissimo script in python che calcola alcune info di rete basandosi su IP e subnet in C.I.D.R., dati dall'utente.
 
+ONLINE VERSION: https://netinfo.pythonanywhere.com/
+
 ## Prerequisites
 
 No prerequisites. Works on Linux, Windows and MacOS
