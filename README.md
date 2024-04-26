@@ -28,7 +28,7 @@ pip install flask
 ```
 python3 NetINFO.py
 ```
-or the flask version:
+or the flask version (run inside flask_app folder):
 
 ```
 python3 flask_app.py
