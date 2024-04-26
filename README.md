@@ -2,6 +2,8 @@
 **Disclaimer** : This software is meant for educational purposes only.
 # NetINFO by stosempreingiro
 
+.Online Version: https://networkinfo.pythonanywhere.com/
+
 [EN] A very simple python script that calculates network info based on a given IP and subnet in C.I.D.R. (classless inter-domain routing)
 
 [IT] Un semplicissimo script in python che calcola alcune info di rete basandosi su IP e subnet in C.I.D.R., dati dall'utente.
