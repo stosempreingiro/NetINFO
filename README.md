@@ -11,18 +11,29 @@
 
 ## Prerequisites
 
-No prerequisites. Works on Linux, Windows and MacOS
+No prerequisites for the python script... but you need to install flask if you want the browser version. Works on Linux, Windows and MacOS
 
 ## Installation / download
 
 ```
 git clone https://github.com/stosempreingiro/NetINFO.git && cd NetINFO
 ```
+install flask if you want to use the flask_app/web version
 
+```
+pip install flask
+```
 
 # How to use
 ```
 python3 NetINFO.py
 ```
+or the flask version:
+
+```
+python3 flask_app.py
+```
+Go on your Browser on: localhost:8080
+
 ENJOY
 
