@@ -33,7 +33,7 @@ or the flask version:
 ```
 python3 flask_app.py
 ```
-Go on your Browser on: localhost:8080
+Go on your Browser on localhost:8080
 
 ENJOY
 
